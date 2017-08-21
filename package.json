@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phantom": "^4.0.5",
     "tesseract.js": "^1.0.10"
   }
 }
